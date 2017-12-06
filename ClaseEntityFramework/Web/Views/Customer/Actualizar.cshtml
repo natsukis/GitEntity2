@@ -1,0 +1,29 @@
+﻿<h2>Actualizar cliente</h2>
+
+<form action="/customer/ActualizarCompleta" method="post">
+    <div>
+        <label>ID</label>
+        
+        <input type="hidden" name="CustomerID" value="@ViewBag.id" />
+    </div>
+
+    <div>
+        <label>CompanyName</label>
+        <input type="text" name="CompanyName" value="@ViewBag.CompanyName"/>
+    </div>
+
+    <div>
+        <label>ContactName</label>
+        <input type="text" name="ContactName" value="@ViewBag.ContactName"/>
+    </div>
+
+    <div>
+        <label>Address</label>
+        <input type="text" name="Address" value="@ViewBag.Address"/>
+    </div>
+
+    <div>
+        <button type="submit">Guardar</button>
+    </div>
+
+</form>

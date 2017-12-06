@@ -1,0 +1,11 @@
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\DataAccess.dll.config
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\EntityFramework.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\EntityFramework.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\obj\Debug\DataAccess.dll
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\obj\Debug\DataAccess.pdb
+\\fsitsv17\MOS-alumnos\alumno\Benjamin Hokama\Posta\ClaseEntityFramework\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache

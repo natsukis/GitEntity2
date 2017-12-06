@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Services.Dtos.CustomerDto>
+
+    <h1>Customer</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Address</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var customer in this.Model)
+            {
+                <tr>
+                    <td>@customer.CustomerID</td>
+                    <td>@customer.Address</td>
+                    <td>
+                        <a href="/customer/delete?customerId=@customer.CustomerID">Eliminar</a>
+                    </td>
+                    <td>
+                        <a href="/customer/actualizar?customerId=@customer.CustomerID">Actualizar</a>
+                    </td>
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
